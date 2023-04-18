@@ -1,7 +1,10 @@
 import React from 'react';
 import Header from './Header';
 import Container from 'react-bootstrap/Container';
-import LocationControl from './LocationControl'
+import LocationControl from './LocationControl';
+import ProduceControl from './ProduceControl';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 // import './App.css';
 
 function App() {
@@ -9,9 +12,14 @@ function App() {
     <React.Fragment>
       <Container>
         <Header/> 
-            {/* <ProduceControl/> */}
-
-            <LocationControl />
+            <Row>
+              <Col>
+                <ProduceControl/>
+              </Col>
+              <Col>
+                <LocationControl />
+              </Col>
+            </Row>
       </Container>
     </React.Fragment>
 

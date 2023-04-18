@@ -71,7 +71,19 @@ const marketSchedule = [
             <option value="0" disabled>Friday</option>
             <option value="5">Saturday</option>
           </select>
+
+
+          <h4>Hours: {marketSchedule[this.state.dayIndex].hours}</h4>
+
+          <h4>Location {marketSchedule[this.state.dayIndex].location}</h4>
+
+          <h4>Booth: {marketSchedule[this.state.dayIndex].booth}</h4>
+
       </React.Fragment>
     )
   }
 }
+
+
+
+export default Schedule;
