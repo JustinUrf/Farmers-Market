@@ -1,6 +1,6 @@
 # Farmer's Market
 
-### Our farmers marketis a mid-sized farm in Northern Oregon that grows organic produce and sells it at farmers markets throughout town.
+### Our farmers markets a mid-sized farm in Northern Oregon that grows organic produce and sells it at farmers markets throughout town.
 #### By: Justin Lee and Noah Atkinson
 
 #### 🍏[Technologies Used](#technologies-used)
@@ -55,7 +55,7 @@ git clone https://github.com/bbakshev/Farmers-Market
 
 **MIT License**
 
-Copyright (c) 2023 John Lenz, Brishna Bakshev, Sarah Andyshak, E Luckie, Erin Timlin and Molly Donegan
+Copyright (c) 2023, Justin Lee, Noah Atkinson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
